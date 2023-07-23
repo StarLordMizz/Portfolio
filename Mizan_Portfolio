@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mizan Khan Pathan - QA Engineer Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #F7F0DB;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFF;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin-bottom: 20px;
+            color: #007BFF;
+        }
+        h2 {
+            margin-top: 30px;
+            margin-bottom: 10px;
+            color: #007BFF;
+        }
+        p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .contact {
+            font-weight: bold;
+        }
+        .skills-list {
+            list-style-type: disc;
+            padding: 0;
+            margin-top: 5px;
+            margin-left: 20px;
+        }
+        .experience-list {
+            list-style-type: square;
+            padding: 0;
+            margin-left: 20px;
+        }
+        .project-list {
+            list-style-type: circle;
+            padding: 0;
+            margin-left: 20px;
+        }
+        .declaration {
+            font-style: italic;
+            margin-top: 20px;
+        }
+        .header-bg {
+            background-color: #007BFF;
+            padding: 10px;
+            color: #FFF;
+            text-align: center;
+            border-radius: 5px;
+        }
+        .header-bg h1 {
+            font-size: 30px;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header-bg">
+            <h1>Mizan Khan Pathan</h1>
+        </div>
+        <p class="contact">4845 Rue de la Peltrie<br>
+        Montreal, Quebec, H3W 1K6<br>
+        (514) 561-0393<br>
+        mizankhan.pathan@gmail.com</p>
+
+        <div class="section">
+            <h2>SUMMARY</h2>
+            <p>Highly motivated QA Engineer with a passion for ensuring software quality. Possesses strong technical skills and a solid academic background in software testing and engineering. Proficient in various testing methodologies and tools, with expertise in automation using Selenium and Java. Adept at creating and executing comprehensive test cases and test plans. Seeking opportunities to leverage my expertise and contribute to the success of software companies.</p>
+        </div>
+
+        <div class="section">
+            <h2>SKILLS</h2>
+            <ul class="skills-list">
+                <li>Software Testing: Manual Testing, Automated Testing with Selenium and Java, White box, Black box, Grey box testing.</li>
+                <li>Test Management: Creation and Execution of Test Cases, Test Plans, and Bug Reporting using JIRA.</li>
+                <li>Software Development Life Cycle (SDLC): Familiarity with Waterfall, Agile Scrum, and Agile Kanban methodologies.</li>
+                <li>Programming Languages: Proficient in Java, Python, and Basics of JavaScript, HTML, and CSS.</li>
+                <li>Mobile Testing: Experience in testing mobile applications on iOS and Android platforms.</li>
+                <li>Version Control and Collaboration: Familiarity with Bitbucket and Confluence for version control and team collaboration.</li>
+                <li>API Testing: Skilled in API testing using Postman.</li>
+                <li>Smoke Testing: Ability to perform smoke tests to ensure basic functionality of applications.</li>
+                <li>Embedded Testing: Experience in testing embedded systems.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>EXPERIENCE</h2>
+            <div class="experience">
+                <h3>Voxx International, Montreal, Canada — System Validation Specialist (QA)</h3>
+                <p class="date">May 2022 - Present</p>
+                <ul class="experience-list">
+                    <li>Conducted comprehensive manual software testing, ensuring high-quality deliverables for mobile applications.</li>
+                    <li>Executed test cases, reported bugs using JIRA, and collaborated with the development team to resolve issues promptly.</li>
+                    <li>Successfully performed mobile testing to ensure seamless user experience across different devices and platforms.</li>
+                    <li>Contributed to the improvement of testing processes and methodologies, resulting in enhanced efficiency.</li>
+                    <li>Demonstrated expertise in API testing using Postman to validate backend functionalities.</li>
+                    <li>Conducted smoke tests for new software releases to identify critical issues at early stages of development.</li>
+                    <li>Applied testing strategies to validate embedded systems, ensuring reliable performance.</li>
+                </ul>
+            </div>
+
+            <div class="experience">
+                <h3>Lufa Farms, Montreal, Canada — Team Leader, Portioning and Quality Department</h3>
+                <p class="date">December 2020 - April 2022</p>
+                <ul class="experience-list">
+                    <li>Led a team in the Portioning and Quality Department, overseeing daily operations and ensuring product quality.</li>
+                    <li>Effectively managed and motivated team members, leading to increased productivity and team cohesion.</li>
+                    <li>Conducted daily meetings with team members, supervisors, and managers to discuss progress and address challenges.</li>
+                    <li>Implemented quality control measures, resulting in improved portioning accuracy and customer satisfaction.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>EDUCATION</h2>
+            <div class="education">
+                <p>Cégep de Gaspésie et des Îles, Montreal, Canada - Computer Software Testing (IT)<br>
+                January 2020 - September 2021</p>
+            </div>
+
+            <div class="education">
+                <p>K.J. Institute of Engineering, Vadodara, India - B.E (Electrical Engineering)<br>
+                August 2016 - June 2019</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>PROJECT EXPERIENCE</h2>
+            <div class="project">
+                <h3>Fine Clothes</h3>
+                <ul class="project-list">
+                    <li>Successfully conducted website testing using Selenium, identifying and reporting critical issues.</li>
+                    <li>Executed comprehensive manual tests to ensure the website's functionality and user-friendliness.</li>
+                    <li>Developed and executed test cases to validate different scenarios.</li>
+                </ul>
+            </div>
+
+            <div class="project">
+                <h3>Viper SmartStart Mobile App (iOS and Android)</h3>
+                <ul class="project-list">
+                    <li>Performed manual testing on the Viper SmartStart mobile app for iOS and Android platforms.</li>
+                    <li>Conducted smoke tests to ensure the app's basic functionality across various devices.</li>
+                    <li>Conducted usability, security, and functional testing to enhance the app's overall performance.</li>
+                </ul>
+            </div>
+        </div>
+
+        <p class="declaration">I hereby declare that the details furnished above are true and correct to the best of my knowledge.</p>
+        <p>Mizan Khan Pathan</p>
+    </div>
+</body>
+</html>
